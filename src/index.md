@@ -3,6 +3,6 @@ title: Home
 layout: layout.html
 order: 0
 ---
-# Machine Learning Hardware Research Group
+# Machine Learning Hardware Reading Group
 
 Forthcoming!

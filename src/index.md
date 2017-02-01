@@ -5,4 +5,12 @@ order: 0
 ---
 # Machine Learning Hardware Reading Group
 
-Forthcoming!
+The schedule:
+
+<ul>
+{{#each schedule}}
+    <li>
+    {{day}}: {{title}}
+    </li>
+{{/each}}
+</ul>

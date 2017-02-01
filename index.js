@@ -29,6 +29,7 @@ var site = Metalsmith(__dirname)
   }))
   .use(metadata({
     site: 'site.yaml',
+    schedule: 'schedule.yaml',
   }))
   .use(relative())
   .use(define({

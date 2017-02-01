@@ -27,6 +27,9 @@ var site = Metalsmith(__dirname)
       sortBy: 'order',
     }
   }))
+  .use(metadata({
+    site: 'site.yaml',
+  }))
   .use(relative())
   .use(define({
     resolve: url.resolve,  // Path join helper.

@@ -19,7 +19,9 @@ var serveMode = process.argv.indexOf('--serve') != -1;
 // is to update global state here.
 var handlebars = require('handlebars');
 var moment = require('moment');
+var marked = require('marked');
 handlebars.registerHelper('date', (d, f) => moment(d).format(f));
+handlebars.registerHelper('markdown', (t) => marked(t, {}));
 
 var site = Metalsmith(__dirname)
   .source('./src')

@@ -1,30 +1,38 @@
 -
     day: 2017-02-07
     title: "DNNs on FPGAs"
-    who: "Ritchie + Shreesha + Yuan"
+    who: "Ritchie, Shreesha, and Yuan"
     details: |
-        DNNWeaver: <a href="http://www.cc.gatech.edu/~hadi/doc/paper/2016-micro-dnn_weaver.pdf">From High-Level Deep Neural Models to FPGAs</a>. Hardik Sharma, Jongse Park, Divya Mahajan, Emmanuel Amaro, Joon Kyung Kim, Chenkai Shao, Asit Mishra, and Hadi Esmaeilzadeh.<br>
-        Catapult in HotChips
+        DNNWeaver: *[From High-Level Deep Neural Models to FPGAs](http://www.cc.gatech.edu/~hadi/doc/paper/2016-micro-dnn_weaver.pdf)*.
+        Hardik Sharma, Jongse Park, Divya Mahajan, Emmanuel Amaro, Joon Kyung Kim, Chenkai Shao, Asit Mishra, and Hadi Esmaeilzadeh.
+
+        Also, Catapult in HotChips?
+
 -
     day: 2017-02-21
     title: "Cambricon"
     who: Shreesha
+
 -
     day: 2017-03-07
     title: "Rigel and other Halide-like DSLs"
     who: Berkin + Ritchie
+
 -
     day: 2017-03-21
     title: SqueezeNet
     who: Mark + Ben
+
 -
     day: 2017-04-11
     title: Eyeriss
     who: Ritchie
+
 -
     day: 2017-04-25
     title: "GANs (NIPS 2016 tutorial?)"
     who: Skand + Ritchie
+
 -
     day: 2017-05-09
     title: "Analog / ReRAM - Memristive Boltzmann Machine + Comparing Stochastic and Deterministic Computing"

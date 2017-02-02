@@ -12,7 +12,7 @@ The schedule for this semester:
     <li>
       <time>{{date day 'MMMM D'}}</time>: <strong>{{title}}</strong><br>
       led by {{who}}
-      {{#if details}}<div>{{ details }}</div>{{/if}}
+      {{#if details}}<div>{{{ markdown details }}}</div>{{/if}}
     </li>
 {{/each}}
 </ul>

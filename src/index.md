@@ -18,3 +18,7 @@ The schedule for this semester (Spring 2017):
     </li>
 {{/each}}
 </ul>
+
+You can [edit the schedule][edit] on GitHub.
+
+[edit]: https://github.com/cucapra/cslrg/edit/master/src/schedule.yaml

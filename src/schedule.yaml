@@ -5,35 +5,56 @@
     details: |
         DNNWeaver: *[From High-Level Deep Neural Models to FPGAs](http://www.cc.gatech.edu/~hadi/doc/paper/2016-micro-dnn_weaver.pdf)*.
         Hardik Sharma, Jongse Park, Divya Mahajan, Emmanuel Amaro, Joon Kyung Kim, Chenkai Shao, Asit Mishra, and Hadi Esmaeilzadeh.
+        In MICRO 2016.
 
         Also, Catapult in HotChips?
 
 -
     day: 2017-02-21
-    title: "Cambricon"
+    title: "ISAs for neural accelerators"
     who: Shreesha
+    details: |
+        *[Cambricon: An Instruction Set Architecture for Neural Networks](http://dl.acm.org/citation.cfm?id=3001179)*.
+        Shaoli Liu, Zidong Du, Jinhua Tao, Dong Han, Tao Luo, Yuan Xie, Yunji Chen, and Tianshi Chen.
+        In ISCA 2016.
 
 -
     day: 2017-03-07
-    title: "Rigel and other Halide-like DSLs"
-    who: Berkin + Ritchie
+    title: "Hardware for Halide-like languages"
+    who: Berkin and Ritchie
+    details: |
+        *[Rigel: Flexible Multi-Rate Image Processing Hardware](http://graphics.stanford.edu/papers/rigel/rigel.pdf)*.
+        James Hegarty, Ross Daly, Zachary DeVito, Jonathan Ragan-Kelley, Mark Horowitz, and Pat Hanrahan.
+        In SIGGRAPH 2016.
 
 -
     day: 2017-03-21
     title: SqueezeNet
     who: Mark + Ben
+    details: |
+        And other compression-related topics.
 
 -
     day: 2017-04-11
     title: Eyeriss
     who: Ritchie
+    details: |
+        *[Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks](http://www.rle.mit.edu/eems/wp-content/uploads/2016/11/eyeriss_jssc_2017.pdf)*.
+        Yu-Hsin Chen, Tushar Krishna, Joel S. Emer, and Vivienne Sze.
+        In ISSCC 2016.
 
 -
     day: 2017-04-25
-    title: "GANs (NIPS 2016 tutorial?)"
+    title: Generative Adversarial Nets (GANs)
     who: Skand + Ritchie
+    details: |
+        Paper forthcoming---perhaps starting with a tutorial in NIPS 2016?
 
 -
     day: 2017-05-09
-    title: "Analog / ReRAM - Memristive Boltzmann Machine + Comparing Stochastic and Deterministic Computing"
+    title: "Analog and ReRAM"
     who: Mark + Berkin
+    details: |
+        Memristive Boltzmann Machine
+
+        Comparing Stochastic and Deterministic Computing

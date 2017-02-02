@@ -32,7 +32,12 @@
     title: SqueezeNet
     who: Mark and Ben
     details: |
-        And other compression-related topics.
+        *[SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360)*.
+        Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, and Kurt Keutzer.
+
+        As background (we read this last semester):
+        *[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)*.
+        Song Han, Huizi Mao, and William J. Dally.
 
 -
     day: 2017-04-11

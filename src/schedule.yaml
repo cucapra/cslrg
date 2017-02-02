@@ -1,6 +1,28 @@
 -
-    day: foo
-    title: bar
+    day: 2017-02-07
+    title: "FPGA + Catapult Hot Chips + DNNWeaver"
+    who: "Ritchie + Shreesha + Yuan"
 -
-    day: foo2
-    title: bar2
+    day: 2017-02-21
+    title: "Cambricon"
+    who: Shreesha
+-
+    day: 2017-03-07
+    title: "Rigel and other Halide-like DSLs"
+    who: Berkin + Ritchie
+-
+    day: 2017-03-21
+    title: SqueezeNet
+    who: Mark + Ben
+-
+    day: 2017-04-11
+    title: Eyeriss
+    who: Ritchie
+-
+    day: 2017-04-25
+    title: "GANs (NIPS 2016 tutorial?)"
+    who: Skand + Ritchie
+-
+    day: 2017-05-09
+    title: "Analog / ReRAM - Memristive Boltzmann Machine + Comparing Stochastic and Deterministic Computing"
+    who: Mark + Berkin

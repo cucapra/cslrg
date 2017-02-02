@@ -30,7 +30,7 @@
 -
     day: 2017-03-21
     title: SqueezeNet
-    who: Mark + Ben
+    who: Mark and Ben
     details: |
         And other compression-related topics.
 
@@ -46,14 +46,14 @@
 -
     day: 2017-04-25
     title: Generative Adversarial Nets (GANs)
-    who: Skand + Ritchie
+    who: Skand and Ritchie
     details: |
         Paper forthcoming---perhaps starting with a tutorial in NIPS 2016?
 
 -
     day: 2017-05-09
     title: "Analog and ReRAM"
-    who: Mark + Berkin
+    who: Mark and Berkin
     details: |
         Memristive Boltzmann Machine
 

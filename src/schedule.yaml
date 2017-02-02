@@ -1,5 +1,5 @@
 -
-    day: 2017-02-07
+    day: '2017-02-07'
     title: "DNNs on FPGAs"
     who: "Ritchie, Shreesha, and Yuan"
     details: |
@@ -10,7 +10,7 @@
         Also, Catapult in HotChips?
 
 -
-    day: 2017-02-21
+    day: '2017-02-21'
     title: "ISAs for neural accelerators"
     who: Shreesha
     details: |
@@ -19,7 +19,7 @@
         In ISCA 2016.
 
 -
-    day: 2017-03-07
+    day: '2017-03-07'
     title: "Hardware for Halide-like languages"
     who: Berkin and Ritchie
     details: |
@@ -28,7 +28,7 @@
         In SIGGRAPH 2016.
 
 -
-    day: 2017-03-21
+    day: '2017-03-21'
     title: SqueezeNet
     who: Mark and Ben
     details: |
@@ -40,7 +40,7 @@
         Song Han, Huizi Mao, and William J. Dally.
 
 -
-    day: 2017-04-11
+    day: '2017-04-11'
     title: Eyeriss
     who: Ritchie
     details: |
@@ -49,14 +49,14 @@
         In ISSCC 2016.
 
 -
-    day: 2017-04-25
+    day: '2017-04-25'
     title: Generative Adversarial Nets (GANs)
     who: Skand and Ritchie
     details: |
         Paper forthcoming---perhaps starting with a tutorial in NIPS 2016?
 
 -
-    day: 2017-05-09
+    day: '2017-05-09'
     title: "Analog and ReRAM"
     who: Mark and Berkin
     details: |

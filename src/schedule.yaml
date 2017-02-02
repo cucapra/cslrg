@@ -1,7 +1,10 @@
 -
     day: 2017-02-07
-    title: "FPGA + Catapult Hot Chips + DNNWeaver"
+    title: "DNNs on FPGAs"
     who: "Ritchie + Shreesha + Yuan"
+    details: |
+        DNNWeaver: <a href="http://www.cc.gatech.edu/~hadi/doc/paper/2016-micro-dnn_weaver.pdf">From High-Level Deep Neural Models to FPGAs</a>. Hardik Sharma, Jongse Park, Divya Mahajan, Emmanuel Amaro, Joon Kyung Kim, Chenkai Shao, Asit Mishra, and Hadi Esmaeilzadeh.<br>
+        Catapult in HotChips
 -
     day: 2017-02-21
     title: "Cambricon"

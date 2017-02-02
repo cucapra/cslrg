@@ -10,7 +10,8 @@ The schedule:
 <ul>
 {{#each schedule}}
     <li>
-    {{day}}: {{title}}
+      <time>{{date day 'MMMM D'}}</time>: <strong>{{title}}</strong><br>
+      led by {{who}}
     </li>
 {{/each}}
 </ul>

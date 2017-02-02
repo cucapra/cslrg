@@ -12,7 +12,14 @@ var define      = require('metalsmith-define');
 
 var url = require('url');
 
+// Use the --serve flag to enable LiveReload.
 var serveMode = process.argv.indexOf('--serve') != -1;
+
+// Tragically, the only way to add helpers to the underlying template engine
+// is to update global state here.
+var handlebars = require('handlebars');
+var moment = require('moment');
+handlebars.registerHelper('date', (d, f) => moment(d).format(f));
 
 var site = Metalsmith(__dirname)
   .source('./src')

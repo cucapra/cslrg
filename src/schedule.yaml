@@ -3,7 +3,7 @@
     title: "DNNs on FPGAs"
     who: "Ritchie, Shreesha, and Yuan"
     details: |
-        DNN-on-Catapult talk: *[Toward Accelerating Deep Learning at Scale Using Specialized Hardware in the Datacenter](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/06/HC27.25.432-Catapult_HOTCHIPS2015_Chung_DRAFT_V8.pdf).
+        DNN-on-Catapult talk: *[Toward Accelerating Deep Learning at Scale Using Specialized Hardware in the Datacenter](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/06/HC27.25.432-Catapult_HOTCHIPS2015_Chung_DRAFT_V8.pdf)*.
         Kalin Ovtcharov, Olatunji Ruwase, Joo-Young Kim, Jeremy Fowers, Karin Strauss, and Eric S. Chung.
         In HotChips 2015.
         (And an accompanying [whitepaper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CNN20Whitepaper.pdf).)

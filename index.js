@@ -21,6 +21,7 @@ var handlebars = require('handlebars');
 var moment = require('moment');
 var marked = require('marked');
 handlebars.registerHelper('date', (d, f) => moment(d).format(f));
+handlebars.registerHelper('now', (f) => moment().format(f));
 handlebars.registerHelper('markdown', (t) => marked(t, {}));
 
 var site = Metalsmith(__dirname)

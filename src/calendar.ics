@@ -14,7 +14,7 @@ DESCRIPTION:{{ who }}
 CLASS:PUBLIC
 DTSTART;TZID={{ site.timezone }}:{{ date day 'YYYYMMDD' }}T{{ date site.time 'HHMMSS' }}
 DTEND;TZID={{ site.timezone }}:{{ date day 'YYYYMMDD' }}T{{ date site.endtime 'HHMMSS' }}
-LAST-MODIFIED:{{ date "" "YYYYMMDDTHHMMSS" }}
+LAST-MODIFIED:{{ now "YYYYMMDDTHHMMSS" }}
 SEQUENCE:1
 END:VEVENT
 {{/each}}

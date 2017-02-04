@@ -49,6 +49,10 @@ var site = Metalsmith(__dirname)
     pattern: "*.{html,md}"
   }))
   .use(inplace({
+    engine: "handlebars",
+    pattern: "*.ics",
+  }))
+  .use(inplace({
     engine: "pug",
     pattern: "*.pug",
     rename: true,

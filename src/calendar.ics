@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:{{ site.title }}
+X-WR-TIMEZONE:America/Los_Angeles
+X-PUBLISHED-TTL:PT2H
+PRODID:{{ site.url }}
+METHOD:PUBLISH
+{{#each schedule}}
+BEGIN:VEVENT
+UID:{{ site.url }}/{{ date day 'YYYYMMDD' }}
+LOCATION:{{ site.location }}
+SUMMARY:{{ title }}
+DESCRIPTION:{{ who }}
+CLASS:PUBLIC
+DTSTART;TZID={{ site.timezone }}:{{ date day 'YYYYMMDD' }}T{{ date site.time 'HHMMSS' }}
+DTEND;TZID={{ site.timezone }}:{{ date day 'YYYYMMDD' }}T{{ date site.endtime 'HHMMSS' }}
+LAST-MODIFIED:{{ date "" "YYYYMMDDTHHMMSS" }}
+SEQUENCE:1
+END:VEVENT
+{{/each}}
+END:VCALENDAR

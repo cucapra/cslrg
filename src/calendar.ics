@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-X-WR-CALNAME:{{ site.title }}
+X-WR-CALNAME:{{ site.longname }}
 X-WR-TIMEZONE:America/Los_Angeles
 X-PUBLISHED-TTL:PT2H
 PRODID:{{ site.url }}

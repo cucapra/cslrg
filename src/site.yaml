@@ -5,4 +5,4 @@ day: Tuesday
 time: 11:15am
 endtime: 12:05pm
 url: https://capra.cs.cornell.edu/cslrg/
-timezone: America/New_York
+timezone: "America/New_York"

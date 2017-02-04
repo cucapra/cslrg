@@ -19,6 +19,8 @@ The schedule for this semester (Spring 2017):
 {{/each}}
 </ul>
 
-You can [edit the schedule][edit] on GitHub.
+You can [subscribe to a calendar][ics] for this schedule.
+And you can [edit the schedule][edit] on GitHub.
 
 [edit]: https://github.com/cucapra/cslrg/edit/master/src/schedule.yaml
+[ics]: calendar.ics

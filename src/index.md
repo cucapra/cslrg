@@ -6,6 +6,7 @@ order: 0
 # Machine Learning Hardware Reading Group
 
 We meet every other {{ site.day }} in {{ site.location }} at {{ site.time }}.
+For announcements, subscribe to the mailing list by sending a message to <cslrg-l-request@cornell.edu>.
 
 The schedule for this semester (Spring 2017):
 

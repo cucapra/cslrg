@@ -21,6 +21,10 @@
         Shaoli Liu, Zidong Du, Jinhua Tao, Dong Han, Tao Luo, Yuan Xie, Yunji Chen, and Tianshi Chen.
         In ISCA 2016.
 
+        *[A Case for Neuromorphic ISAs](https://pdfs.semanticscholar.org/ef60/0ed361cb18cb29180c0e9e6d02ec702450f6.pdf)*.
+        Atif Hashmi, Andrew Nere, James Jamal Thomas, and Mikko Lipasti.
+        In ASPLOS 2011.
+
 -
     day: '2017-03-07'
     title: "Hardware for Halide-like languages"

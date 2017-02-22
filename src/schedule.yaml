@@ -34,6 +34,10 @@
         James Hegarty, Ross Daly, Zachary DeVito, Jonathan Ragan-Kelley, Mark Horowitz, and Pat Hanrahan.
         In SIGGRAPH 2016.
 
+        Secondarily, "Halide-HLS": *[Programming Heterogeneous Systems from an Image Processing DSL](https://arxiv.org/abs/1610.09405)*.
+        Jing Pu, Steven Bell, Xuan Yang, Jeff Setter, Stephen Richardson, Jonathan Ragan-Kelley, and Mark Horowitz.
+        On arXiv.
+
 -
     day: '2017-03-21'
     title: SqueezeNet

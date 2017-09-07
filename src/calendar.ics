@@ -5,7 +5,8 @@ X-WR-TIMEZONE:{{ site.timezone }}
 X-PUBLISHED-TTL:PT2H
 PRODID:{{ site.url }}
 METHOD:PUBLISH
-{{#each schedule}}
+{{#each schedules}}
+{{#each this}}
 BEGIN:VEVENT
 UID:{{ ../site.url }}/{{ date day 'YYYYMMDD' }}
 LOCATION:{{ ../site.location }}
@@ -17,5 +18,6 @@ DTEND;TZID={{ ../site.timezone }}:{{ date day 'YYYYMMDD' }}T{{ time ../site.endt
 LAST-MODIFIED:{{ now "YYYYMMDDTHHMMSS" }}
 SEQUENCE:1
 END:VEVENT
+{{/each}}
 {{/each}}
 END:VCALENDAR

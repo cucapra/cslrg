@@ -9,6 +9,7 @@ var filepath    = require('metalsmith-filepath');
 var inplace     = require('metalsmith-in-place');
 var ignore      = require('metalsmith-ignore');
 var define      = require('metalsmith-define');
+var metadataPat = require('./metalsmith-metadata-pattern');
 
 var url = require('url');
 
@@ -41,6 +42,9 @@ var site = Metalsmith(__dirname)
   .use(metadata({
     site: 'site.yaml',
     schedule: 'schedule.yaml',
+  }))
+  .use(metadataPat({
+    schedules: 'schedules/*.yaml',
   }))
   .use(relative())
   .use(define({

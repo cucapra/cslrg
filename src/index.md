@@ -11,8 +11,12 @@ Papers and comments are stored on [the COECIS internal GitHub instance](https://
 
 The schedule for this semester (Spring 2017):
 
+{{#each schedules}}
+
+<!-- {{@key}} -->
+
 <ul>
-{{#each schedule}}
+{{#each this}}
     <li>
       <time>{{date day 'MMMM D'}}</time>: <strong>{{title}}</strong><br>
       led by {{who}}
@@ -20,6 +24,8 @@ The schedule for this semester (Spring 2017):
     </li>
 {{/each}}
 </ul>
+
+{{/each}}
 
 You can [subscribe to a calendar][ics] for this schedule.
 And you can [edit the schedule][edit] on GitHub.

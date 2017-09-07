@@ -1,3 +1,8 @@
+location: Rhodes 471E
+day: Tuesday
+time: '11:15am'
+endtime: '12:05pm'
+
 meetings:
     -
         day: '2017-02-07'

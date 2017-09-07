@@ -5,7 +5,6 @@ order: 0
 ---
 # Machine Learning Hardware Reading Group
 
-We meet every other {{ site.day }} in {{ site.location }} at {{ site.time }}.
 For announcements, subscribe to the mailing list by sending a message to <cslrg-l-request@cornell.edu>.
 Papers and comments are stored on [the COECIS internal GitHub instance](https://github.coecis.cornell.edu/csl/mlhwrg).
 
@@ -14,6 +13,8 @@ The schedule for this semester (Spring 2017):
 {{#each schedules}}
 
 <!-- {{@key}} -->
+
+We meet every other {{ day }} in {{ location }} at {{ ./time }}.
 
 <ul>
 {{#each meetings}}

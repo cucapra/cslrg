@@ -8,13 +8,13 @@ METHOD:PUBLISH
 {{#each schedules}}
 {{#each meetings}}
 BEGIN:VEVENT
-UID:{{ ../site.url }}/{{ date day 'YYYYMMDD' }}
-LOCATION:{{ ../site.location }}
+UID:{{ ../../site.url }}/{{ date day 'YYYYMMDD' }}
+LOCATION:{{ ../location }}
 SUMMARY:{{ title }}
 DESCRIPTION:{{ who }}
 CLASS:PUBLIC
-DTSTART;TZID={{ ../site.timezone }}:{{ date day 'YYYYMMDD' }}T{{ time ../site.time 'hhmmss' }}
-DTEND;TZID={{ ../site.timezone }}:{{ date day 'YYYYMMDD' }}T{{ time ../site.endtime 'hhmmss' }}
+DTSTART;TZID={{ ../../site.timezone }}:{{ date day 'YYYYMMDD' }}T{{ time ../time 'hhmmss' }}
+DTEND;TZID={{ ../../site.timezone }}:{{ date day 'YYYYMMDD' }}T{{ time ../endtime 'hhmmss' }}
 LAST-MODIFIED:{{ now "YYYYMMDDTHHMMSS" }}
 SEQUENCE:1
 END:VEVENT

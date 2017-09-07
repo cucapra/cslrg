@@ -1,99 +1,100 @@
--
-    day: '2017-02-07'
-    title: "DNNs on FPGAs"
-    who: "Ritchie, Shreesha, and Yuan"
-    details: |
-        DNN-on-Catapult talk: *[Toward Accelerating Deep Learning at Scale Using Specialized Hardware in the Datacenter](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/06/HC27.25.432-Catapult_HOTCHIPS2015_Chung_DRAFT_V8.pdf)*.
-        Kalin Ovtcharov, Olatunji Ruwase, Joo-Young Kim, Jeremy Fowers, Karin Strauss, and Eric S. Chung.
-        In HotChips 2015.
-        (And an accompanying [whitepaper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CNN20Whitepaper.pdf).)
+meetings:
+    -
+        day: '2017-02-07'
+        title: "DNNs on FPGAs"
+        who: "Ritchie, Shreesha, and Yuan"
+        details: |
+            DNN-on-Catapult talk: *[Toward Accelerating Deep Learning at Scale Using Specialized Hardware in the Datacenter](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/06/HC27.25.432-Catapult_HOTCHIPS2015_Chung_DRAFT_V8.pdf)*.
+            Kalin Ovtcharov, Olatunji Ruwase, Joo-Young Kim, Jeremy Fowers, Karin Strauss, and Eric S. Chung.
+            In HotChips 2015.
+            (And an accompanying [whitepaper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CNN20Whitepaper.pdf).)
 
-        DNNWeaver: *[From High-Level Deep Neural Models to FPGAs](http://www.cc.gatech.edu/~hadi/doc/paper/2016-micro-dnn_weaver.pdf)*.
-        Hardik Sharma, Jongse Park, Divya Mahajan, Emmanuel Amaro, Joon Kyung Kim, Chenkai Shao, Asit Mishra, and Hadi Esmaeilzadeh.
-        In MICRO 2016.
+            DNNWeaver: *[From High-Level Deep Neural Models to FPGAs](http://www.cc.gatech.edu/~hadi/doc/paper/2016-micro-dnn_weaver.pdf)*.
+            Hardik Sharma, Jongse Park, Divya Mahajan, Emmanuel Amaro, Joon Kyung Kim, Chenkai Shao, Asit Mishra, and Hadi Esmaeilzadeh.
+            In MICRO 2016.
 
--
-    day: '2017-02-21'
-    title: "ISAs for neural accelerators"
-    who: Shreesha
-    details: |
-        *[Cambricon: An Instruction Set Architecture for Neural Networks](http://dl.acm.org/citation.cfm?id=3001179)*.
-        Shaoli Liu, Zidong Du, Jinhua Tao, Dong Han, Tao Luo, Yuan Xie, Yunji Chen, and Tianshi Chen.
-        In ISCA 2016.
+    -
+        day: '2017-02-21'
+        title: "ISAs for neural accelerators"
+        who: Shreesha
+        details: |
+            *[Cambricon: An Instruction Set Architecture for Neural Networks](http://dl.acm.org/citation.cfm?id=3001179)*.
+            Shaoli Liu, Zidong Du, Jinhua Tao, Dong Han, Tao Luo, Yuan Xie, Yunji Chen, and Tianshi Chen.
+            In ISCA 2016.
 
-        *[A Case for Neuromorphic ISAs](https://pdfs.semanticscholar.org/ef60/0ed361cb18cb29180c0e9e6d02ec702450f6.pdf)*.
-        Atif Hashmi, Andrew Nere, James Jamal Thomas, and Mikko Lipasti.
-        In ASPLOS 2011.
+            *[A Case for Neuromorphic ISAs](https://pdfs.semanticscholar.org/ef60/0ed361cb18cb29180c0e9e6d02ec702450f6.pdf)*.
+            Atif Hashmi, Andrew Nere, James Jamal Thomas, and Mikko Lipasti.
+            In ASPLOS 2011.
 
--
-    day: '2017-03-07'
-    title: "Hardware for Halide-like languages"
-    who: Berkin and Ritchie
-    details: |
-        *[Rigel: Flexible Multi-Rate Image Processing Hardware](http://graphics.stanford.edu/papers/rigel/rigel.pdf)*.
-        James Hegarty, Ross Daly, Zachary DeVito, Jonathan Ragan-Kelley, Mark Horowitz, and Pat Hanrahan.
-        In SIGGRAPH 2016.
+    -
+        day: '2017-03-07'
+        title: "Hardware for Halide-like languages"
+        who: Berkin and Ritchie
+        details: |
+            *[Rigel: Flexible Multi-Rate Image Processing Hardware](http://graphics.stanford.edu/papers/rigel/rigel.pdf)*.
+            James Hegarty, Ross Daly, Zachary DeVito, Jonathan Ragan-Kelley, Mark Horowitz, and Pat Hanrahan.
+            In SIGGRAPH 2016.
 
-        Secondarily, "Halide-HLS": *[Programming Heterogeneous Systems from an Image Processing DSL](https://arxiv.org/abs/1610.09405)*.
-        Jing Pu, Steven Bell, Xuan Yang, Jeff Setter, Stephen Richardson, Jonathan Ragan-Kelley, and Mark Horowitz.
-        On arXiv.
+            Secondarily, "Halide-HLS": *[Programming Heterogeneous Systems from an Image Processing DSL](https://arxiv.org/abs/1610.09405)*.
+            Jing Pu, Steven Bell, Xuan Yang, Jeff Setter, Stephen Richardson, Jonathan Ragan-Kelley, and Mark Horowitz.
+            On arXiv.
 
--
-    day: '2017-03-21'
-    title: SqueezeNet
-    who: Mark and Ben
-    details: |
-        *[SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360)*.
-        Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, and Kurt Keutzer.
+    -
+        day: '2017-03-21'
+        title: SqueezeNet
+        who: Mark and Ben
+        details: |
+            *[SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360)*.
+            Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, and Kurt Keutzer.
 
-        As background (we read this last semester):
-        *[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)*.
-        Song Han, Huizi Mao, and William J. Dally.
+            As background (we read this last semester):
+            *[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)*.
+            Song Han, Huizi Mao, and William J. Dally.
 
--
-    day: '2017-04-11'
-    title: Eyeriss
-    who: Ritchie
-    details: |
-        *[Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks](http://www.rle.mit.edu/eems/wp-content/uploads/2016/11/eyeriss_jssc_2017.pdf)*.
-        Yu-Hsin Chen, Tushar Krishna, Joel S. Emer, and Vivienne Sze.
-        In ISSCC 2016.
+    -
+        day: '2017-04-11'
+        title: Eyeriss
+        who: Ritchie
+        details: |
+            *[Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks](http://www.rle.mit.edu/eems/wp-content/uploads/2016/11/eyeriss_jssc_2017.pdf)*.
+            Yu-Hsin Chen, Tushar Krishna, Joel S. Emer, and Vivienne Sze.
+            In ISSCC 2016.
 
--
-    day: '2017-04-25'
-    title: Generative Adversarial Nets (GANs) and TPU
-    who: Skand and Ritchie
-    details: |
-        *[In-Datacenter Performance Analysis of a Tensor Processing Unit](https://arxiv.org/abs/1704.04760)*.
-        Norman P. Jouppi, Cliff Young, Nishant Patil, David Patterson, Gaurav Agrawal, Raminder Bajwa, Sarah Bates, Suresh Bhatia, Nan Boden, Al Borchers, Rick Boyle, Pierre-luc Cantin, Clifford Chao, Chris Clark, Jeremy Coriell, Mike Daley, Matt Dau, Jeffrey Dean, Ben Gelb, Tara Vazir Ghaemmaghami, Rajendra Gottipati, William Gulland, Robert Hagmann, C. Richard Ho, Doug Hogberg, John Hu, Robert Hundt, Dan Hurt, Julian Ibarz, Aaron Jaffey, Alek Jaworski, Alexander Kaplan, Harshit Khaitan, Andy Koch, Naveen Kumar, Steve Lacy, James Laudon, James Law, Diemthu Le, Chris Leary, Zhuyuan Liu, Kyle Lucke, Alan Lundin, Gordon MacKean, Adriana Maggiore, Maire Mahony, Kieran Miller, Rahul Nagarajan, Ravi Narayanaswami, Ray Ni, Kathy Nix, Thomas Norrie, Mark Omernick, Narayana Penukonda, Andy Phelps, Jonathan Ross, Matt Ross, Amir Salek, Emad Samadiani, Chris Severn, Gregory Sizikov, Matthew Snelham, Jed Souter, Dan Steinberg, Andy Swing, Mercedes Tan, Gregory Thorson, Bo Tian, Horia Toma, Erick Tuttle, Vijay Vasudevan, Richard Walter, Walter Wang, Eric Wilcox, Doe Hyun Yoon.
-        Preprint, to appear in ISCA 2017.
+    -
+        day: '2017-04-25'
+        title: Generative Adversarial Nets (GANs) and TPU
+        who: Skand and Ritchie
+        details: |
+            *[In-Datacenter Performance Analysis of a Tensor Processing Unit](https://arxiv.org/abs/1704.04760)*.
+            Norman P. Jouppi, Cliff Young, Nishant Patil, David Patterson, Gaurav Agrawal, Raminder Bajwa, Sarah Bates, Suresh Bhatia, Nan Boden, Al Borchers, Rick Boyle, Pierre-luc Cantin, Clifford Chao, Chris Clark, Jeremy Coriell, Mike Daley, Matt Dau, Jeffrey Dean, Ben Gelb, Tara Vazir Ghaemmaghami, Rajendra Gottipati, William Gulland, Robert Hagmann, C. Richard Ho, Doug Hogberg, John Hu, Robert Hundt, Dan Hurt, Julian Ibarz, Aaron Jaffey, Alek Jaworski, Alexander Kaplan, Harshit Khaitan, Andy Koch, Naveen Kumar, Steve Lacy, James Laudon, James Law, Diemthu Le, Chris Leary, Zhuyuan Liu, Kyle Lucke, Alan Lundin, Gordon MacKean, Adriana Maggiore, Maire Mahony, Kieran Miller, Rahul Nagarajan, Ravi Narayanaswami, Ray Ni, Kathy Nix, Thomas Norrie, Mark Omernick, Narayana Penukonda, Andy Phelps, Jonathan Ross, Matt Ross, Amir Salek, Emad Samadiani, Chris Severn, Gregory Sizikov, Matthew Snelham, Jed Souter, Dan Steinberg, Andy Swing, Mercedes Tan, Gregory Thorson, Bo Tian, Horia Toma, Erick Tuttle, Vijay Vasudevan, Richard Walter, Walter Wang, Eric Wilcox, Doe Hyun Yoon.
+            Preprint, to appear in ISCA 2017.
 
-        ---
+            ---
 
-        NIPS tutorial by Ian Goodfellow:
-        - [Tutorial.](https://arxiv.org/pdf/1701.00160.pdf)
-        - [Slides.](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf)
+            NIPS tutorial by Ian Goodfellow:
+            - [Tutorial.](https://arxiv.org/pdf/1701.00160.pdf)
+            - [Slides.](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf)
 
-        Short [description in KDnuggets](http://www.kdnuggets.com/2017/01/generative-adversarial-networks-hot-topic-machine-learning.html).
+            Short [description in KDnuggets](http://www.kdnuggets.com/2017/01/generative-adversarial-networks-hot-topic-machine-learning.html).
 
-        Step-by-step [introduction on Medium](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7). (Skip to "How DCGANs Work.")
+            Step-by-step [introduction on Medium](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7). (Skip to "How DCGANs Work.")
 
-        Papers:
-        - [Original GAN paper.](https://arxiv.org/pdf/1406.2661.pdf)
-        - [Deep Convolutional GAN (DCGAN).](https://arxiv.org/pdf/1511.06434.pdf)
-        - [InfoGAN.](https://arxiv.org/pdf/1606.03657.pdf)
+            Papers:
+            - [Original GAN paper.](https://arxiv.org/pdf/1406.2661.pdf)
+            - [Deep Convolutional GAN (DCGAN).](https://arxiv.org/pdf/1511.06434.pdf)
+            - [InfoGAN.](https://arxiv.org/pdf/1606.03657.pdf)
 
-        Ritchie recommends reading the blog posts and glancing at the paper results.
+            Ritchie recommends reading the blog posts and glancing at the paper results.
 
--
-    day: '2017-05-09'
-    title: "Analog and ReRAM"
-    who: Mark and Berkin
-    details: |
-        *[Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning](http://www.cs.rochester.edu/~ipek/hpca16.pdf)*.
-        Mahdi Nazm Bojnordi and Engin Ipek.
-        In HPCA 2016.
+    -
+        day: '2017-05-09'
+        title: "Analog and ReRAM"
+        who: Mark and Berkin
+        details: |
+            *[Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning](http://www.cs.rochester.edu/~ipek/hpca16.pdf)*.
+            Mahdi Nazm Bojnordi and Engin Ipek.
+            In HPCA 2016.
 
-        *[Comparing Stochastic and Deterministic Computing](http://vlsi.cornell.edu/~rajit/ps/stochastic.pdf)*.
-        Rajit Manohar.
-        In CAL, March 2015.
+            *[Comparing Stochastic and Deterministic Computing](http://vlsi.cornell.edu/~rajit/ps/stochastic.pdf)*.
+            Rajit Manohar.
+            In CAL, March 2015.

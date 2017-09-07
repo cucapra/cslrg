@@ -6,7 +6,7 @@ X-PUBLISHED-TTL:PT2H
 PRODID:{{ site.url }}
 METHOD:PUBLISH
 {{#each schedules}}
-{{#each this}}
+{{#each meetings}}
 BEGIN:VEVENT
 UID:{{ ../site.url }}/{{ date day 'YYYYMMDD' }}
 LOCATION:{{ ../site.location }}

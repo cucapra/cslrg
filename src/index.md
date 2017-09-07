@@ -16,7 +16,7 @@ The schedule for this semester (Spring 2017):
 <!-- {{@key}} -->
 
 <ul>
-{{#each this}}
+{{#each meetings}}
     <li>
       <time>{{date day 'MMMM D'}}</time>: <strong>{{title}}</strong><br>
       led by {{who}}

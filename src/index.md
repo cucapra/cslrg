@@ -8,11 +8,9 @@ order: 0
 For announcements, subscribe to the mailing list by sending a message to <cslrg-l-request@cornell.edu>.
 Papers and comments are stored on [the COECIS internal GitHub instance](https://github.coecis.cornell.edu/csl/mlhwrg).
 
-The schedule for this semester (Spring 2017):
-
 {{#each schedules}}
 
-<!-- {{@key}} -->
+## {{ name }}
 
 We meet every other {{ day }} in {{ location }} at {{ ./time }}.
 

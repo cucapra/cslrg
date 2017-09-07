@@ -8,6 +8,9 @@ order: 0
 For announcements, subscribe to the mailing list by sending a message to <cslrg-l-request@cornell.edu>.
 Papers and comments are stored on [the COECIS internal GitHub instance](https://github.coecis.cornell.edu/csl/mlhwrg).
 
+You can [subscribe to a calendar][ics] for this schedule.
+And you can [edit the schedule][edit] on GitHub.
+
 {{#each schedules}}
 
 ## {{ name }}
@@ -25,9 +28,6 @@ We meet every other {{ day }} in {{ location }} at {{ ./time }}.
 </ul>
 
 {{/each}}
-
-You can [subscribe to a calendar][ics] for this schedule.
-And you can [edit the schedule][edit] on GitHub.
 
 [edit]: https://github.com/cucapra/cslrg/edit/master/src/schedule.yaml
 [ics]: calendar.ics

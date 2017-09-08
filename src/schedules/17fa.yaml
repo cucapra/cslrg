@@ -18,8 +18,12 @@ meetings:
         who: "Skand"
         details: |
             *[Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units.](http://ieeexplore.ieee.org/document/7551422/)*
+            Siyang Wang, Xiangyu Zhang, Yuxuan Li, Ramin Bashizade, Song Yang,  Chris Dwyer, and Alvin R. Lebeck.
+            ISCA 2016.
 
             *[High throughput Bayesian computing machine with reconfigurable hardware.](https://dl.acm.org/citation.cfm?id=1723127)*
+            Mingjie Lin, Ilia Lebedev, and John Wawrzynek.
+            FPGA 2010.
 
     -
         day: '2017-09-27'

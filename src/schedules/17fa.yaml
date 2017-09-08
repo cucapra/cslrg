@@ -40,7 +40,7 @@ meetings:
             Parker Hill, Animesh Jain, Mason Hill, Babak Zamirai, Chang-Hong Hsu, Michael Laurenzano, Scott Mahlke, Lingjia Tang, and Jason Mars.
             MICRO 2017.
 
-            Amazon DSSTNE.
+            And [Amazon DSSTNE](https://github.com/amzn/amazon-dsstne), if we can find something useful to read about it.
 
     -
         day: '2017-10-11'
@@ -54,7 +54,9 @@ meetings:
             Jiecao Yu, Andrew Lukefahr, David Palframan, Ganesh Dasika, Reetuparna Das, and Scott Mahlke.
             ISCA 2017.
 
-            And sigma/delta networks?
+            *[Sigma Delta Quantized Networks.](https://arxiv.org/abs/1611.02024)*
+            Peter O'Connor and Max Welling.
+            ICLR 2017.
 
     -
         day: '2017-10-25'

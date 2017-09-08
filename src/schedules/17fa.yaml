@@ -6,8 +6,50 @@ endtime: 12:05pm
 
 meetings:
     -
-        day: '2017-09-03'
-        title: "title"
-        who: "who"
+        day: '2017-09-06'
+        title: "Organization"
+        who: "Adrian"
         details: |
-            Details.
+            Selecting papers for the semester.
+
+    -
+        day: '2017-09-13'
+        title: "Probabilistic Graphical Models"
+        who: "Skand"
+        details: |
+            TK
+
+    -
+        day: '2017-09-27'
+        title: "TK"
+        who: "TK"
+        details: |
+            TK
+
+    -
+        day: '2017-10-11'
+        title: "TK"
+        who: "TK"
+        details: |
+            TK
+
+    -
+        day: '2017-10-25'
+        title: "TK"
+        who: "TK"
+        details: |
+            TK
+
+    -
+        day: '2017-11-08'
+        title: "TK"
+        who: "TK"
+        details: |
+            TK
+
+    -
+        day: '2017-11-22'
+        title: "TK"
+        who: "TK"
+        details: |
+            TK

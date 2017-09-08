@@ -11,11 +11,11 @@ Papers and comments are stored on [the COECIS internal GitHub instance](https://
 You can [subscribe to a calendar][ics] for this schedule.
 And you can [edit the schedule][edit] on GitHub.
 
-{{#each schedules}}
+{{#with (lookup schedules site.current) }}
 
-## {{ name }}
-
+Here's the schedule for the current semester, {{ name }}.
 We meet every other {{ day }} in {{ location }} at {{ ./time }}.
+You can also see [archived semesters][archive].
 
 <ul>
 {{#each meetings}}
@@ -27,7 +27,8 @@ We meet every other {{ day }} in {{ location }} at {{ ./time }}.
 {{/each}}
 </ul>
 
-{{/each}}
+{{/with}}
 
 [edit]: https://github.com/cucapra/cslrg/edit/master/src/schedule.yaml
 [ics]: calendar.ics
+[archive]: archive.html

@@ -1,8 +1,5 @@
 name: CSL-RG
 longname: CSL Reading Group
-location: Rhodes 471E
-day: Tuesday
-time: 11:15am
-endtime: 12:05pm
 url: https://capra.cs.cornell.edu/cslrg/
 timezone: "America/New_York"
+current: 17fa

@@ -1,0 +1,13 @@
+name: Fall 2017
+location: Rhodes 471E
+day: Wednesday
+time: 11:15am
+endtime: 12:05pm
+
+meetings:
+    -
+        day: '2017-09-03'
+        title: "title"
+        who: "who"
+        details: |
+            Details.

@@ -30,6 +30,8 @@ meetings:
         title: "Datacenters"
         who: "Ben"
         details: |
+            Special MICRO 2017 preview edition!
+
             *Scale-Out Acceleration for Machine Learning.*
             Jongse Park, Hardik Sharma, Divya Mahajan, Joon Kyung Kim, and Hadi Esmaeilzadeh.
             MICRO 2017.
@@ -48,7 +50,7 @@ meetings:
             *[SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.](http://people.csail.mit.edu/anurag_m/papers/2017.scnn.isca.pdf)*
             Angshuman Parashar, Minsoo Rhu, Anurag Mukkara, Antonio Puglielli, Rangharajan Venkatesan, Brucek Khailany, Joel Emer, Stephen W. Keckler, and William J. Dally.
 
-            *Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.*
+            *[Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.](http://dl.acm.org/citation.cfm?id=3080215)*
             Jiecao Yu, Andrew Lukefahr, David Palframan, Ganesh Dasika, Reetuparna Das, and Scott Mahlke.
             ISCA 2017.
 
@@ -72,7 +74,7 @@ meetings:
         title: "Numerical Tricks"
         who: "Ritchie"
         details: |
-            *CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.*
+            *[CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.](https://arxiv.org/abs/1708.08917)*
             Caiwen Ding, Siyu Liao, Yanzhi Wang, Zhe Li, Ning Liu, Youwei Zhuo, Chao Wang, Xuehai Qian, Yu Bai, Geng Yuan, Xiaolong Ma, Yipeng Zhang, Jian Tang, Qinru Qiu, Xue Lin, and Bo Yuan.
             MICRO 2017.
 
@@ -85,7 +87,7 @@ meetings:
         title: "Learning"
         who: "TK"
         details: |
-            *Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent.*
+            *[Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent.](http://dl.acm.org/citation.cfm?id=3080248)*
             Christopher De Sa, Matthew Feldman, Christopher Ré, and Kunle Olukotun.
             ISCA 2017.
 

@@ -17,48 +17,74 @@ meetings:
         title: "Probabilistic Graphical Models"
         who: "Skand"
         details: |
-            - Lebeck
-            - Wawrzyek
+            *[Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units.](http://ieeexplore.ieee.org/document/7551422/)*
+
+            *[High throughput Bayesian computing machine with reconfigurable hardware.](https://dl.acm.org/citation.cfm?id=1723127)*
 
     -
         day: '2017-09-27'
         title: "Datacenters"
         who: "Ben"
         details: |
-            - Georgia Tech scale-out MICRO
-            - Michigan MICRO
-            - Amazon DSSTNE
+            *Scale-Out Acceleration for Machine Learning.*
+            Jongse Park, Hardik Sharma, Divya Mahajan, Joon Kyung Kim, and Hadi Esmaeilzadeh.
+            MICRO 2017.
+
+            *DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission.*
+            Parker Hill, Animesh Jain, Mason Hill, Babak Zamirai, Chang-Hong Hsu, Michael Laurenzano, Scott Mahlke, Lingjia Tang, and Jason Mars.
+            MICRO 2017.
+
+            Amazon DSSTNE.
 
     -
         day: '2017-10-11'
         title: "Sparsity"
         who: "Mark"
         details: |
-            - SCNN
-            - sigma/delta networks
-            - Scalpel (ISCA)
+            *[SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.](http://people.csail.mit.edu/anurag_m/papers/2017.scnn.isca.pdf)*
+            Angshuman Parashar, Minsoo Rhu, Anurag Mukkara, Antonio Puglielli, Rangharajan Venkatesan, Brucek Khailany, Joel Emer, Stephen W. Keckler, and William J. Dally.
+
+            *Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.*
+            Jiecao Yu, Andrew Lukefahr, David Palframan, Ganesh Dasika, Reetuparna Das, and Scott Mahlke.
+            ISCA 2017.
+
+            And sigma/delta networks?
 
     -
         day: '2017-10-25'
         title: "FPGAs"
         who: "Shreesha (and Ritchie)"
         details: |
-            - fused-layer CNNs
-            - MSR @ HotChips
+            *[Fused-layer CNN accelerators.](http://ieeexplore.ieee.org/document/7783725/)*
+            Manoj Alwani, Han Chen, Michael Ferdman, and Peter Milder.
+            MICRO 2016.
+
+            *[Accelerating persistent neural networks at datacenter scale.](https://onedrive.live.com/view.aspx?resid=9FF02F85206E25A4!1435078&ithint=file%2cpptx&app=PowerPoint&authkey=!AGh3DS8anFfO4J0).*
+            Eric Chung, Jeremy Fowers, Kalin Ovtcharov, Michael Papamichael, Adrian Caulfield, Todd Massengil, Ming Liu, Daniel Lo, Shlomi Alkalay, Michael Haselman, Christian Boehn, Oren Firestein, Alessandro Forin, Kang Su Gatlin, Mahdi Ghandi, Stephen Heil, Kyle Holohan, Tamas Juhasz, Ratna Kumar Kovvuri, Sitaram Lanka, Friedel van Megen, Dima Mukhortov, Prerak Patel, Steve Reinhardt, Adam Sapek, Raja Seera, Balaji Sridharan, Lisa Woods, Phillip Yi-Xiao, Ritchie Zhao, Doug Burger.
+            HotChips 2017 (slides).
 
     -
         day: '2017-11-08'
         title: "Numerical Tricks"
         who: "Ritchie"
         details: |
-            - Altera / Winograd
-            - CirCNN / FFT
+            *CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.*
+            Caiwen Ding, Siyu Liao, Yanzhi Wang, Zhe Li, Ning Liu, Youwei Zhuo, Chao Wang, Xuehai Qian, Yu Bai, Geng Yuan, Xiaolong Ma, Yipeng Zhang, Jian Tang, Qinru Qiu, Xue Lin, and Bo Yuan.
+            MICRO 2017.
+
+            *[An OpenCL Deep Learning Accelerator on Arria 10.](https://arxiv.org/abs/1701.03534)*
+            Utku Aydonat, Shane O'Connell, Davor Capalija, Andrew C. Ling, and Gordon R. Chiu.
+            arXiv.
 
     -
         day: '2017-11-22'
         title: "Learning"
         who: "TK"
         details: |
-            - De Sa
-            - ScaleDeep?
-            - Bengio: symmetric learning/inference (equilibrium propagation?)
+            *Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent.*
+            Christopher De Sa, Matthew Feldman, Christopher Ré, and Kunle Olukotun.
+            ISCA 2017.
+
+            *[Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation.](https://arxiv.org/abs/1602.05179)*
+            Benjamin Scellier and Yoshua Bengio.
+            arXiv.

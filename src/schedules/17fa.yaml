@@ -17,39 +17,48 @@ meetings:
         title: "Probabilistic Graphical Models"
         who: "Skand"
         details: |
-            TK
+            - Lebeck
+            - Wawrzyek
 
     -
         day: '2017-09-27'
-        title: "TK"
-        who: "TK"
+        title: "Datacenters"
+        who: "Ben"
         details: |
-            TK
+            - Georgia Tech scale-out MICRO
+            - Michigan MICRO
+            - Amazon DSSTNE
 
     -
         day: '2017-10-11'
-        title: "TK"
-        who: "TK"
+        title: "Sparsity"
+        who: "Mark"
         details: |
-            TK
+            - SCNN
+            - sigma/delta networks
+            - Scalpel (ISCA)
 
     -
         day: '2017-10-25'
-        title: "TK"
-        who: "TK"
+        title: "FPGAs"
+        who: "Shreesha (and Ritchie)"
         details: |
-            TK
+            - fused-layer CNNs
+            - MSR @ HotChips
 
     -
         day: '2017-11-08'
-        title: "TK"
-        who: "TK"
+        title: "Numerical Tricks"
+        who: "Ritchie"
         details: |
-            TK
+            - Altera / Winograd
+            - CirCNN / FFT
 
     -
         day: '2017-11-22'
-        title: "TK"
+        title: "Learning"
         who: "TK"
         details: |
-            TK
+            - De Sa
+            - ScaleDeep?
+            - Bengio: symmetric learning/inference (equilibrium propagation?)

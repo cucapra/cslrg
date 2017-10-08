@@ -49,6 +49,7 @@ meetings:
         details: |
             *[SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.](http://people.csail.mit.edu/anurag_m/papers/2017.scnn.isca.pdf)*
             Angshuman Parashar, Minsoo Rhu, Anurag Mukkara, Antonio Puglielli, Rangharajan Venkatesan, Brucek Khailany, Joel Emer, Stephen W. Keckler, and William J. Dally.
+            ISCA 2017.
 
             *[Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.](http://dl.acm.org/citation.cfm?id=3080215)*
             Jiecao Yu, Andrew Lukefahr, David Palframan, Ganesh Dasika, Reetuparna Das, and Scott Mahlke.

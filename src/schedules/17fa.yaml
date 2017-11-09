@@ -86,9 +86,9 @@ meetings:
             arXiv.
 
     -
-        day: '2017-11-22'
+        day: '2017-11-29'
         title: "Learning"
-        who: "TK"
+        who: "Chris & Skand"
         details: |
             *[Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent.](http://dl.acm.org/citation.cfm?id=3080248)*
             Christopher De Sa, Matthew Feldman, Christopher Ré, and Kunle Olukotun.

@@ -106,3 +106,11 @@ img.illus {
         display: none;
     }
 }
+
+.permalink {
+  color: inherit;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}

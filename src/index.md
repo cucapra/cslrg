@@ -20,7 +20,7 @@ You can also see [archived semesters][archive].
 <ul>
 {{#each meetings}}
     <li>
-      <time id="{{date day 'YYYY-MM-DD'}}">{{date day 'MMMM D'}}</time>:
+      <a class="permalink" href="#{{date day 'YYYY-MM-DD'}}"><time id="{{date day 'YYYY-MM-DD'}}" datetime="{{ date day 'YYYY-MM-DD' }}">{{date day 'MMMM D'}}</time>:</a>
       <strong>{{title}}</strong><br>
       led by {{who}}
       {{#if details}}<div>{{{ markdown details }}}</div>{{/if}}

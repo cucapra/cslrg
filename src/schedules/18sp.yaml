@@ -1,0 +1,13 @@
+name: Spring 2018
+location: Rhodes 471E
+day: Tuesday
+time: 11:15am
+endtime: 12:05pm
+
+meetings:
+    -
+        day: '2018-01-30'
+        title: "Organization"
+        who: "Adrian"
+        details: |
+            Selecting papers for the semester.

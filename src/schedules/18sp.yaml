@@ -17,16 +17,16 @@ meetings:
         who: Mark
         title: 'Systems & Datacenters'
         details: |
-            Facebook HPCA paper
+            [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/)
 
-            deep gradient compression
+            [Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training](https://arxiv.org/abs/1712.01887)
 
     -
         day: '2018-02-27'
         who: Ritchie
         title: Precision
         details: |
-            bit fusion
+            [Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks](https://arxiv.org/abs/1712.01507)
 
             NIPS "accurate BNNs"
 
@@ -35,9 +35,11 @@ meetings:
         who: Skand
         title: PIM
         details: |
-            Neurostream (primary)
+            Primary:
+            [Neurostream: Scalable and Energy Efficient Deep Learning with Smart Memory Cubes](https://arxiv.org/abs/1701.06420)
 
-            Neurocube (secondary)
+            Secondary/backup:
+            [Neurocube: a programmable digital neuromorphic architecture with high-density 3D memory](https://dl.acm.org/citation.cfm?id=3001178)
 
     # -
     #     day: '2018-03-27'
@@ -46,29 +48,31 @@ meetings:
         day: '2018-04-10'
         who: Ben
         title: Large-Batch Training
-        details:
-            Facebook (primary)
+        details: |
+            Primary:
+            [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
 
-            Intel (seconday)
+            Secondary/backup:
+            [ImageNet Training in Minutes](https://arxiv.org/abs/1709.05011)
 
     -
         day: '2018-04-24'
         who: 'Phil & Skand'
         title: Mobile
         details: |
-            Glimpse
+            [Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision](https://dl.acm.org/citation.cfm?id=3081347)
 
-            TVM
+            [TVM: End-to-End Optimization Stack for Deep Learning](https://www.cs.washington.edu/tr/2017/12/UW-CSE-17-12-01.pdf)
 
-            ARM
+            [Mobile Machine Learning Hardware at ARM: An SoC Perspective](https://arxiv.org/abs/1801.06274)
 
     -
         day: '2018-05-08'
         who: Sachille
         title: 'Structure & Metalearning'
         details: |
-            dynamic optimization...
+            [Dynamic Optimization of Neural Network Structures Using Probabilistic Modeling](http://arxiv.org/abs/1801.07650v1)
 
-            flexible...
+            [Flexible Deep Neural Network Processing](http://arxiv.org/abs/1801.07353v1)
 
-            online...
+            [Online Deep Learning: Learning Deep Neural Networks on the Fly](https://arxiv.org/abs/1711.03705)

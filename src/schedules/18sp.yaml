@@ -17,18 +17,26 @@ meetings:
         who: Mark
         title: 'Systems & Datacenters'
         details: |
-            [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/)
+            [*Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective.*](https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/)
+            Kim Hazelwood, Sarah Bird, David Brooks, Soumith Chintala, Utku Diril, Dmytro Dzhulgakov, Mohamed Fawzy, Bill Jia, Yangqing Jia, Aditya Kalro, James Law, Kevin Lee, Jason Lu, Pieter Noordhuis, Misha Smelyanskiy, Liang Xiong, Xiaodong Wang.
+            HPCA 2018.
 
-            [Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training](https://arxiv.org/abs/1712.01887)
+            [*Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training.*](https://arxiv.org/abs/1712.01887)
+            Yujun Lin, Song Han, Huizi Mao, Yu Wang, William J. Dally.
+            ICLR 2018.
 
     -
         day: '2018-02-27'
         who: Ritchie
         title: Precision
         details: |
-            [Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks](https://arxiv.org/abs/1712.01507)
+            [*Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks.*](https://arxiv.org/abs/1712.01507)
+            Hardik Sharma, Jongse Park, Naveen Suda, Liangzhen Lai, Benson Chau, Joon Kyung Kim, Vikas Chandra, Hadi Esmaeilzadeh.
+            Unpublished.
 
-            NIPS "accurate BNNs"
+            [*Towards Accurate Binary Convolutional Neural Network.*](https://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network.pdf)
+            Xiaofan Lin, Cong Zhao, Wei Pan.
+            NIPS 2017.
 
     -
         day: '2018-03-13'
@@ -36,10 +44,14 @@ meetings:
         title: PIM
         details: |
             Primary:
-            [Neurostream: Scalable and Energy Efficient Deep Learning with Smart Memory Cubes](https://arxiv.org/abs/1701.06420)
+            [*Neurostream: Scalable and Energy Efficient Deep Learning with Smart Memory Cubes.*](https://arxiv.org/abs/1701.06420)
+            Erfan Azarkhish, Davide Rossi, Igor Loi, Luca Benini.
+            IEEE TPDS, in 2018.
 
             Secondary/backup:
-            [Neurocube: a programmable digital neuromorphic architecture with high-density 3D memory](https://dl.acm.org/citation.cfm?id=3001178)
+            [*Neurocube: a programmable digital neuromorphic architecture with high-density 3D memory.*](https://dl.acm.org/citation.cfm?id=3001178)
+            Duckhwan Kim, Jaeha Kung, Sek Chai, Sudhakar Yalamanchili, Saibal Mukhopadhyay.
+            ISCA 2016.
 
     # -
     #     day: '2018-03-27'
@@ -50,29 +62,44 @@ meetings:
         title: Large-Batch Training
         details: |
             Primary:
-            [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
+            [*Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour.*](https://research.fb.com/publications/accurate-large-minibatch-sgd-training-imagenet-in-1-hour/)
+            Priya Goyal, Piotr Dolla ́r, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, Kaiming He.
+            Unpublished?
 
             Secondary/backup:
-            [ImageNet Training in Minutes](https://arxiv.org/abs/1709.05011)
+            [*ImageNet Training in Minutes.*](https://arxiv.org/abs/1709.05011)
+            Unpublished.
 
     -
         day: '2018-04-24'
         who: 'Phil & Skand'
         title: Mobile
         details: |
-            [Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision](https://dl.acm.org/citation.cfm?id=3081347)
+            [*Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision.*](https://dl.acm.org/citation.cfm?id=3081347)
+            Saman Naderiparizi, Pengyu Zhang, Matthai Philipose, Bodhi Priyantha, Jie Liu, and Deepak Ganesan.
+            MobiSys 2017.
 
-            [TVM: End-to-End Optimization Stack for Deep Learning](https://www.cs.washington.edu/tr/2017/12/UW-CSE-17-12-01.pdf)
+            [*TVM: End-to-End Optimization Stack for Deep Learning.*](https://www.cs.washington.edu/tr/2017/12/UW-CSE-17-12-01.pdf)
+            Tianqi Chen, Thierry Moreau, Ziheng Jiang, Haichen Shen, Eddie Yan, Leyuan Wang, Yuwei Hu, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy.
+            Unpublished.
 
-            [Mobile Machine Learning Hardware at ARM: An SoC Perspective](https://arxiv.org/abs/1801.06274)
+            [*Mobile Machine Learning Hardware at ARM: An SoC Perspective.*](https://arxiv.org/abs/1801.06274)
+            Yuhao Zhu, Matthew Mattina, Paul Whatmough.
+            SysML 2018.
 
     -
         day: '2018-05-08'
         who: Sachille
         title: 'Structure & Metalearning'
         details: |
-            [Dynamic Optimization of Neural Network Structures Using Probabilistic Modeling](http://arxiv.org/abs/1801.07650v1)
+            [*Dynamic Optimization of Neural Network Structures Using Probabilistic Modeling.*](http://arxiv.org/abs/1801.07650v1)
+            Shinichi Shirakawa, Yasushi Iwata, Youhei Akimoto.
+            AAAI 2018.
 
-            [Flexible Deep Neural Network Processing](http://arxiv.org/abs/1801.07353v1)
+            [*Flexible Deep Neural Network Processing.*](http://arxiv.org/abs/1801.07353v1)
+            Hokchhay Tann, Soheil Hashemi, Sherief Reda.
+            Unpublished.
 
-            [Online Deep Learning: Learning Deep Neural Networks on the Fly](https://arxiv.org/abs/1711.03705)
+            [*Online Deep Learning: Learning Deep Neural Networks on the Fly.*](https://arxiv.org/abs/1711.03705)
+            Doyen Sahoo, Quang Pham, Jing Lu, Steven C.H. Hoi.
+            Unpublished.

@@ -11,3 +11,64 @@ meetings:
         who: "Adrian"
         details: |
             Selecting papers for the semester.
+
+    -
+        day: '2018-02-06'
+        who: Mark
+        title: 'Systems & Datacenters'
+        details: |
+            Facebook HPCA paper
+
+            deep gradient compression
+
+    -
+        day: '2018-02-27'
+        who: Ritchie
+        title: Precision
+        details: |
+            bit fusion
+
+            NIPS "accurate BNNs"
+
+    -
+        day: '2018-03-13'
+        who: Skand
+        title: PIM
+        details: |
+            Neurostream (primary)
+
+            Neurocube (secondary)
+
+    # -
+    #     day: '2018-03-27'
+
+    -
+        day: '2018-04-10'
+        who: Ben
+        title: Large-Batch Training
+        details:
+            Facebook (primary)
+
+            Intel (seconday)
+
+    -
+        day: '2018-04-24'
+        who: 'Phil & Skand'
+        title: Mobile
+        details: |
+            Glimpse
+
+            TVM
+
+            ARM
+
+    -
+        day: '2018-05-08'
+        who: Sachille
+        title: 'Structure & Metalearning'
+        details: |
+            dynamic optimization...
+
+            flexible...
+
+            online...

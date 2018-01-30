@@ -30,6 +30,6 @@ You can also see [archived semesters][archive].
 
 {{/with}}
 
-[edit]: https://github.com/cucapra/cslrg/edit/master/src/schedule.yaml
+[edit]: https://github.com/cucapra/cslrg/edit/master/src/schedules/{{site.current}}.yaml
 [ics]: calendar.ics
 [archive]: archive.html

@@ -48,7 +48,12 @@ meetings:
             Erfan Azarkhish, Davide Rossi, Igor Loi, Luca Benini.
             IEEE TPDS, in 2018.
 
-            Secondary/backup:
+            Secondary:
+            [*TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory.*](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf)
+            Mingyu Gao, Jing Pu, Xuan Yang, Mark Horowitz, and Christos Kozyrakis.
+            ASPLOS 2017.
+
+            Backup:
             [*Neurocube: a programmable digital neuromorphic architecture with high-density 3D memory.*](https://dl.acm.org/citation.cfm?id=3001178)
             Duckhwan Kim, Jaeha Kung, Sek Chai, Sudhakar Yalamanchili, Saibal Mukhopadhyay.
             ISCA 2016.

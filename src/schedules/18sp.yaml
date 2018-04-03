@@ -64,16 +64,23 @@ meetings:
     -
         day: '2018-04-10'
         who: Ben
-        title: Large-Batch Training
+        title: Large Minibatch Training
         details: |
             Primary:
-            [*Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour.*](https://research.fb.com/publications/accurate-large-minibatch-sgd-training-imagenet-in-1-hour/)
-            Priya Goyal, Piotr Dolla ́r, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, Kaiming He.
-            Unpublished?
+            [*Train longer, generalize better: closing the generalization gap in large batch training of neural networks.*](https://arxiv.org/abs/1705.08741)
+            Elad Hoffer, Itay Hubara, Daniel Soudry.
+            NIPS 2017
 
-            Secondary/backup:
+            Secondary:
+            [*Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour.*](https://arxiv.org/abs/1706.02677)
+            Priya Goyal, Piotr Dolla ́r, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, Kaiming He.
+            FAIR Technical Report
+
+            Bonus:
             [*ImageNet Training in Minutes.*](https://arxiv.org/abs/1709.05011)
+            Yang You, Zhao Zhang, Cho-Jui Hsieh, James Demmel, Kurt Keutzer.
             Unpublished.
+
 
     -
         day: '2018-04-24'

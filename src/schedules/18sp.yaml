@@ -102,16 +102,16 @@ meetings:
     -
         day: '2018-05-08'
         who: Sachille
-        title: 'Structure & Metalearning'
+        title: 'ISCA Preview'
         details: |
-            [*Dynamic Optimization of Neural Network Structures Using Probabilistic Modeling.*](http://arxiv.org/abs/1801.07650v1)
-            Shinichi Shirakawa, Yasushi Iwata, Youhei Akimoto.
-            AAAI 2018.
+            *The Dark Side of DNN Pruning.*
+            Reza Yazdani, Marc Riera, Jose-Maria Arnau, and Antonio Gonzalez.
+            In ISCA 2018.
 
-            [*Flexible Deep Neural Network Processing.*](http://arxiv.org/abs/1801.07353v1)
-            Hokchhay Tann, Soheil Hashemi, Sherief Reda.
-            Unpublished.
+            *SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.*
+            Vahideh Akhlaghi, Amir Yazdanbakhsh, Kambiz Samadi, Hadi Esmaeilzadeh, and Rajesh K. Gupta.
+            In ISCA 2018.
 
-            [*Online Deep Learning: Learning Deep Neural Networks on the Fly.*](https://arxiv.org/abs/1711.03705)
-            Doyen Sahoo, Quang Pham, Jing Lu, Steven C.H. Hoi.
-            Unpublished.
+            Backup:
+            *An Energy-Efficient Neural Network Accelerator based on Outlier-Aware Low Precision Computation.*
+            Eunhyeok Park, Dongyoung Kim, and Sungjoo Yoo.

@@ -26,90 +26,89 @@ meetings:
     -
         day: '2018-02-13'
         who: Sachille & Nitish
-        title: 
+        title: Languages & Compiler
         details: |
             
 
     -
         day: '2018-02-20'
         who: Kailin
-        title: 
+        title: Processing-in-memory
         details: |
             
 
     -
         day: '2018-02-27'
         who: Tuan
-        title: 
+        title: Specialized architectures
         details: |
             
 
     -
         day: '2018-03-06'
         who: Neeraj
-        title: 
+        title: Datacenters and Machine Learning
         details: |
             
 
     -
         day: '2018-03-13'
         who: Yi
-        title: 
+        title: Memory
         details: |
             
 
     -
         day: '2018-03-20'
         who: Khalid
-        title: 
+        title: Processing-in-memory
         details: |
             
 
     -
         day: '2018-03-27'
-        who: 
+        who: TBD
         title: 'ASPLOS preview'
         details: |
             
 
     -
         day: '2018-04-03'
-        who: 
         title: Spring Break
         details: |
             No meeting
 
     -
         day: '2018-04-10'
-        who: 
+        who: TBD
         title: 'ASPLOS preview'
         details: |
             
 
     -
         day: '2018-04-17'
-        who: 
+        who: TBD
         title: 
         details: |
             
 
     -
         day: '2018-04-24'
-        who: 
+        who: TBD
         title: 
         details: |
             
 
     -
         day: '2018-05-01'
-        who: 
+        who: TBD
         title: 'ISCA Preview'
         details: |
             
 
     -
         day: '2018-05-08'
-        who: 
+        who: TBD
         title: 'ISCA Preview'
         details: |
             

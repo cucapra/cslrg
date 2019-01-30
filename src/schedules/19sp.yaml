@@ -17,11 +17,14 @@ meetings:
         who: Nitish
         title: 'Microarchitecture'
         details: |
-            [**]()
-            
+            [*Dynamically Specialized Datapaths for Energy Efficient Computing*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5749755)
+            Venkatraman Govindaraju, Chen-Han Ho, Karthikeyan Sankaralingam; University of Wisconsin-Madison
+            2011 HPCA.
 
-            [**]()
-            
+            [*Triggered Instructions: A Control Paradigm for Spatially-Programmed Architectures*](http://delivery.acm.org/10.1145/2490000/2485935/p142-parashar.pdf?ip=128.84.124.121&id=2485935&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EB493315FA1EC298D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1548884883_1bfb63d685f0a00847419e99cd503e26)
+            Angshuman Parashar, Michael Pellauer, Michael Adler, Bushra Ahsan, Neal Crago, Daniel Lustig, Vladimir Pavlov, Antonia Zhai,
+            Mohit Gambhir, Aamer Jaleel, Randy Allmon, Rachid Rayess, Stephen Maresh, Joel Emer
+            2013 ISCA.
 
     -
         day: '2018-02-13'

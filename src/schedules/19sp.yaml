@@ -1,0 +1,115 @@
+name: Spring 2019
+location: Rhodes 471E
+day: Wednesday
+time: 
+endtime: 
+
+meetings:
+    -
+        day: '2018-01-30'
+        title: "Organization"
+        who: Sachille
+        details: |
+            Selecting papers for the semester.
+
+    -
+        day: '2018-02-06'
+        who: Nitish
+        title: 'Microarchitecture'
+        details: |
+            [**]()
+            
+
+            [**]()
+            
+
+    -
+        day: '2018-02-13'
+        who: 
+        title: 
+        details: |
+            
+
+    -
+        day: '2018-02-20'
+        who: 
+        title: 
+        details: |
+            
+
+    -
+        day: '2018-02-27'
+        who: 
+        title: 
+        details: |
+            
+
+    -
+        day: '2018-03-06'
+        who: 
+        title: 
+        details: |
+            
+
+    -
+        day: '2018-03-13'
+        who: 
+        title: 
+        details: |
+            
+
+    -
+        day: '2018-03-20'
+        who: 
+        title: 
+        details: |
+            
+
+    -
+        day: '2018-03-27'
+        who: 
+        title: 'ASPLOS preview'
+        details: |
+            
+
+    -
+        day: '2018-04-03'
+        who: 
+        title: Spring Break
+        details: |
+            No meeting
+
+    -
+        day: '2018-04-10'
+        who: 
+        title: 'ASPLOS preview'
+        details: |
+            
+
+    -
+        day: '2018-04-17'
+        who: 
+        title: 
+        details: |
+            
+
+    -
+        day: '2018-04-24'
+        who: 
+        title: 
+        details: |
+            
+
+    -
+        day: '2018-05-01'
+        who: 
+        title: 'ISCA Preview'
+        details: |
+            
+
+    -
+        day: '2018-05-08'
+        who: 
+        title: 'ISCA Preview'
+        details: |
+            

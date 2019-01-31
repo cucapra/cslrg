@@ -22,7 +22,7 @@ You can also see [archived semesters][archive].
     <li>
       <a class="permalink" href="#{{date day 'YYYY-MM-DD'}}"><time id="{{date day 'YYYY-MM-DD'}}" datetime="{{ date day 'YYYY-MM-DD' }}">{{date day 'MMMM D'}}</time>:</a>
       <strong>{{title}}</strong><br>
-      {{#if who}}<div>{led by {{who}}}
+      led by {{who}}
       {{#if details}}<div>{{{ markdown details }}}</div>{{/if}}
     </li>
 {{/each}}

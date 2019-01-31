@@ -3,7 +3,7 @@ title: Home
 layout: layout.html
 order: 0
 ---
-# Machine Learning Hardware Reading Group
+# Computer Architecture Reading Group
 
 For announcements, subscribe to the mailing list by sending a message to <cslrg-l-request@cornell.edu>.
 Papers and comments are stored on [the COECIS internal GitHub instance](https://github.coecis.cornell.edu/csl/mlhwrg).
@@ -14,7 +14,7 @@ And you can [edit the schedule][edit] on GitHub.
 {{#with (lookup schedules site.current) }}
 
 Here's the schedule for the current semester, {{ name }}.
-We meet every other {{ day }} in {{ location }} at {{ ./time }}.
+We meet every {{ day }} in {{ location }} at {{ ./time }}.
 You can also see [archived semesters][archive].
 
 <ul>

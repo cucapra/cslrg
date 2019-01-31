@@ -63,8 +63,10 @@ meetings:
         who: Neeraj
         title: Datacenters and Machine Learning
         details: |
-             To be posted.
+             [*Machine Learning at Facebook: Understanding Inference at the Edge*](https://research.fb.com/wp-content/uploads/2018/12/Machine-Learning-at-Facebook-Understanding-Inference-at-the-Edge.pdf)
              
+             [*Kelp: QoS for Accelerators in Machine Learning Platforms*]
+             Link will posted once the paper's available.
 
     -
         day: '2018-03-13'

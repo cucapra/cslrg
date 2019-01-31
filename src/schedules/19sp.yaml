@@ -36,7 +36,7 @@ meetings:
             2018 PLDI.
 
             Secondary:
-            [*Rethinking the Memory Hierarchy for Modern Languages*](https://ieeexplore-ieee-org/stamp/stamp.jsp?tp=&arnumber=8574542)
+            [*Rethinking the Memory Hierarchy for Modern Languages*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8574542)
             Po-An Tsai, Yee Ling Gan, Daniel Sanchez.
             2018 MICRO.
 
@@ -54,7 +54,7 @@ meetings:
         who: Tuan
         title: Specialized architectures
         details: |
-            [*Exploiting Locality in Graph Analytics through Hardware-Accelerated Traversal Scheduling*](https://ieeexplore-ieee-org/stamp/stamp.jsp?tp=&arnumber=8574527)
+            [*Exploiting Locality in Graph Analytics through Hardware-Accelerated Traversal Scheduling*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8574527)
             Anurag Mukkara, Nathan Beckmann, Maleen Abeydeera, Xiaosong Ma, Daniel Sanchez.
             2018 MICRO.
 

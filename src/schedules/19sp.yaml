@@ -1,8 +1,8 @@
 name: Spring 2019
 location: Rhodes 471E
 day: Wednesday
-time: 
-endtime: 
+time: 3.00pm
+endtime: 4.00pm
 
 meetings:
     -
@@ -98,6 +98,7 @@ meetings:
 
     -
         day: '2018-04-03'
+        who: -
         title: Spring Break
         details: |
             No meeting

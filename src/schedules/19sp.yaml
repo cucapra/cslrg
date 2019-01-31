@@ -18,12 +18,11 @@ meetings:
         title: 'Microarchitecture'
         details: |
             [*Dynamically Specialized Datapaths for Energy Efficient Computing*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5749755)
-            Venkatraman Govindaraju, Chen-Han Ho, Karthikeyan Sankaralingam; University of Wisconsin-Madison
+            Venkatraman Govindaraju, Chen-Han Ho, Karthikeyan Sankaralingam.
             2011 HPCA.
 
             [*Triggered Instructions: A Control Paradigm for Spatially-Programmed Architectures*](http://delivery.acm.org/10.1145/2490000/2485935/p142-parashar.pdf?ip=128.84.124.121&id=2485935&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EB493315FA1EC298D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1548884883_1bfb63d685f0a00847419e99cd503e26)
-            Angshuman Parashar, Michael Pellauer, Michael Adler, Bushra Ahsan, Neal Crago, Daniel Lustig, Vladimir Pavlov, Antonia Zhai,
-            Mohit Gambhir, Aamer Jaleel, Randy Allmon, Rachid Rayess, Stephen Maresh, Joel Emer
+            Angshuman Parashar, Michael Pellauer, Michael Adler, Bushra Ahsan, Neal Crago, Daniel Lustig, Vladimir Pavlov, Antonia Zhai, Mohit Gambhir, Aamer Jaleel, Randy Allmon, Rachid Rayess, Stephen Maresh, Joel Emer.
             2013 ISCA.
 
     -
@@ -31,49 +30,77 @@ meetings:
         who: Sachille & Nitish
         title: Languages & Compiler
         details: |
-            
+            Primary:
+            [*Spatial: A Language and Compiler for Application Accelerators*](http://delivery.acm.org/10.1145/3200000/3192379/pldi18main-p53-p.pdf?ip=128.84.124.121&id=3192379&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EB493315FA1EC298D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1548884210_8c71ace262b37254243899280065517a)
+            David Koeplinger, Matthew Feldman, Raghu Prabhakar, Yaqi Zhang, Stefan Hadjis, Ruben Fiszel, Tian Zhao, Luigi Nardi, Ardavan Pedram, Christos Kozyrakis, Kunle Olukotun.
+            2018 PLDI.
+
+            Secondary:
+            [*Rethinking the Memory Hierarchy for Modern Languages*](https://ieeexplore-ieee-org/stamp/stamp.jsp?tp=&arnumber=8574542)
+            Po-An Tsai, Yee Ling Gan, Daniel Sanchez.
+            2018 MICRO.
 
     -
         day: '2018-02-20'
         who: Kailin
         title: Processing-in-memory
         details: |
-            
+            [*DRISA: A DRAM-based Reconfigurable In-Situ Accelerator*](http://delivery.acm.org/10.1145/3130000/3123977/p288-li.pdf?ip=128.84.124.121&id=3123977&acc=CHORUS&key=7777116298C9657D%2EB493315FA1EC298D%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1548884680_f603e26b309399d2ccffb6b411916f40)
+            Shuangchen Li, Dimin Niu, Krishna T. Malladi, Hongzhong Zheng, Bob Brennan, Yuan Xie.
+            2017 MICRO.
 
     -
         day: '2018-02-27'
         who: Tuan
         title: Specialized architectures
         details: |
-            
+            [*Exploiting Locality in Graph Analytics through Hardware-Accelerated Traversal Scheduling*](https://ieeexplore-ieee-org/stamp/stamp.jsp?tp=&arnumber=8574527)
+            Anurag Mukkara, Nathan Beckmann, Maleen Abeydeera, Xiaosong Ma, Daniel Sanchez.
+            2018 MICRO.
 
     -
         day: '2018-03-06'
         who: Neeraj
         title: Datacenters and Machine Learning
         details: |
-            
+            [**]()
+            .
+            .
+
+            [**]()
+            .
+            .
 
     -
         day: '2018-03-13'
         who: Yi
         title: Memory
         details: |
-            
+            [*Adaptive Scheduling for Systems with Asymmetric Memory Hierarchies*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8574575)
+            Po-An Tsai, Changping Chen, Daniel Sanchez.
+            2018 MICRO.
 
     -
         day: '2018-03-20'
         who: Khalid
         title: Processing-in-memory
         details: |
-            
+            [*Compute Caches*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7920849)
+            Shaizeen Aga, Supreet Jeloka, Arun Subramaniyan, Satish Narayanasamy, David Blaauw, Reetuparna Das.
+            2017 HPCA.
+
+            [*Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks*](http://delivery.acm.org/10.1145/3280000/3276577/p383-eckert.pdf?ip=128.84.124.121&id=3276577&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EB493315FA1EC298D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1548884617_c5f44e95d5556db01b3e378fba4e02b5)
+            Charles Eckert, Xiaowei Wang, Jingcheng Wang, Arun Subramaniyan, Ravi Iyer, Dennis Sylvester, David Blaauw, Reetuparna Das.
+            2018 ISCA.
 
     -
         day: '2018-03-27'
         who: TBD
         title: 'ASPLOS preview'
         details: |
-            
+            [**]()
+            .
+            .
 
     -
         day: '2018-04-03'
@@ -86,32 +113,42 @@ meetings:
         who: TBD
         title: 'ASPLOS preview'
         details: |
-            
+            [**]()
+            .
+            .
 
     -
         day: '2018-04-17'
         who: TBD
         title: 
         details: |
-            
+            [**]()
+            .
+            .
 
     -
         day: '2018-04-24'
         who: TBD
         title: 
         details: |
-            
+            [**]()
+            .
+            .
 
     -
         day: '2018-05-01'
         who: TBD
         title: 'ISCA Preview'
         details: |
-            
+            [**]()
+            .
+            .
 
     -
         day: '2018-05-08'
         who: TBD
         title: 'ISCA Preview'
         details: |
-            
+            [**]()
+            .
+            .

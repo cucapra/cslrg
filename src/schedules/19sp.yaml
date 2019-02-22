@@ -1,8 +1,8 @@
 name: Spring 2019
 location: Rhodes 471E
 day: Wednesday
-time: 2.30pm
-endtime: 3.30pm
+time: 3.00pm
+endtime: 4.00pm
 
 meetings:
     -
@@ -51,23 +51,31 @@ meetings:
 
     -
         day: '2018-02-27'
-        who: Tuan
-        title: Specialized architectures
-        details: |
-            [*Exploiting Locality in Graph Analytics through Hardware-Accelerated Traversal Scheduling*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8574527)
-            Anurag Mukkara, Nathan Beckmann, Maleen Abeydeera, Xiaosong Ma, Daniel Sanchez.
-            2018 MICRO.
-
-    -
-        day: '2018-03-06'
+#        who: Tuan
+#        title: Specialized architectures
+#        details: |
+#            [*Exploiting Locality in Graph Analytics through Hardware-Accelerated Traversal Scheduling*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8574527)
+#            Anurag Mukkara, Nathan Beckmann, Maleen Abeydeera, Xiaosong Ma, Daniel Sanchez.
+#            2018 MICRO.
+#
+#    -
+#        day: '2018-03-06'
         who: Neeraj
         title: Datacenters and Machine Learning
         details: |
              [*Machine Learning at Facebook: Understanding Inference at the Edge*](https://research.fb.com/wp-content/uploads/2018/12/Machine-Learning-at-Facebook-Understanding-Inference-at-the-Edge.pdf)
              
-             [*Kelp: QoS for Accelerators in Machine Learning Platforms*]
-             Link will posted once the paper's available.
+#             [*Kelp: QoS for Accelerators in Machine Learning Platforms*]
+#             Link will posted once the paper's available.
+#
 
+    -
+        day: '2018-03-06'
+        who: TBD
+        title: TBD
+        details: |
+            TBD
+             
     -
         day: '2018-03-13'
         who: Yi
@@ -95,9 +103,10 @@ meetings:
         who: TBD
         title: 'ASPLOS preview'
         details: |
-            TBD
+            [*ASPLOS Program is out*](https://asplos-conference.org/programs/#conference)
+            
+            [*HPCA Program*](http://hpca2019.seas.gwu.edu/main_program.html)
              
-
     -
         day: '2018-04-03'
         title: Spring Break

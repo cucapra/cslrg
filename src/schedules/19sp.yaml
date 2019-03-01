@@ -71,10 +71,10 @@ meetings:
 
     -
         day: '2018-03-06'
-        who: TBD
-        title: TBD
+        who: Nitish
+        title: Machine Learning Accelerators
         details: |
-            TBD
+            [*DNN Dataflow Choice is Overated*](https://arxiv.org/pdf/1809.04070.pdf)
              
     -
         day: '2018-03-13'
@@ -100,7 +100,7 @@ meetings:
 
     -
         day: '2018-03-27'
-        who: TBD
+        who: Sachille
         title: 'ASPLOS preview'
         details: |
             [*ASPLOS Program is out*](https://asplos-conference.org/programs/#conference)

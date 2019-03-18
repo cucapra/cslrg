@@ -115,23 +115,24 @@ meetings:
 
     -
         day: '2018-04-10'
-        who: TBD
+        who: Cunxi
         title: 'ASPLOS preview'
         details: |
-            TBD
+            [*Just-In-Time Compilation for Verilog — A New Technique for Improving the FPGA Programming Experience*]()
+            Eric Schkufza, Michael Wei, Christopher J. Rossbach.
+            2019 ASPLOS. 
              
 
     -
         day: '2018-04-17'
-        who: TBD
-        title: TBD
+        title: ASPLOS
         details: |
-            TBD
+            No meeting
              
 
     -
         day: '2018-04-24'
-        who: TBD
+        who: Ritchie
         title: TBD
         details: |
             TBD
@@ -139,7 +140,7 @@ meetings:
 
     -
         day: '2018-05-01'
-        who: TBD
+        who: Helena
         title: 'ISCA Preview'
         details: |
             TBD
@@ -147,7 +148,7 @@ meetings:
 
     -
         day: '2018-05-08'
-        who: TBD
+        who: Sungbo
         title: 'ISCA Preview'
         details: |
             TBD

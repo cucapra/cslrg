@@ -103,9 +103,9 @@ meetings:
         who: Sachille
         title: 'ASPLOS preview'
         details: |
-            [*ASPLOS Program is out*](https://asplos-conference.org/programs/#conference)
-            
-            [*HPCA Program*](http://hpca2019.seas.gwu.edu/main_program.html)
+            [*Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators*](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf)
+            Mingyu Gao, Xuan Yang, Jing Pu, Mark Horowitz, Christos Kozyrakis.
+            2019 ASPLOS.
              
     -
         day: '2018-04-03'

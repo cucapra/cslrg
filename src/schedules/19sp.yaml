@@ -118,7 +118,7 @@ meetings:
         who: Cunxi
         title: 'ASPLOS preview'
         details: |
-            [*Just-In-Time Compilation for Verilog — A New Technique for Improving the FPGA Programming Experience*]()
+            [*Just-In-Time Compilation for Verilog — A New Technique for Improving the FPGA Programming Experience*](https://github.com/vmware/cascade/blob/9d865f8c9fe0d8434a0804962727de33e8ec0e59/doc/asplos19.pdf)
             Eric Schkufza, Michael Wei, Christopher J. Rossbach.
             2019 ASPLOS. 
              

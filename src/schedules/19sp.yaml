@@ -101,7 +101,7 @@ meetings:
     -
         day: '2018-03-27'
         who: Sachille
-        title: 'ASPLOS preview'
+        title: 'ASPLOS Preview'
         details: |
             [*Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators*](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf)
             Mingyu Gao, Xuan Yang, Jing Pu, Mark Horowitz, Christos Kozyrakis.
@@ -116,7 +116,7 @@ meetings:
     -
         day: '2018-04-10'
         who: Cunxi
-        title: 'ASPLOS preview'
+        title: 'ASPLOS Preview'
         details: |
             [*Just-In-Time Compilation for Verilog — A New Technique for Improving the FPGA Programming Experience*](https://github.com/vmware/cascade/blob/9d865f8c9fe0d8434a0804962727de33e8ec0e59/doc/asplos19.pdf)
             Eric Schkufza, Michael Wei, Christopher J. Rossbach.
@@ -133,10 +133,11 @@ meetings:
     -
         day: '2018-04-24'
         who: Ritchie
-        title: TBD
+        title: Machine Learning Systems
         details: |
-            TBD
-             
+            [*Rethinking floating point for deep learning*](https://research.fb.com/wp-content/uploads/2018/12/Rethinking-floating-point-for-deep-learning.pdf?)
+            Jeff Johnson.
+            2018 NeurIPS.
 
     -
         day: '2018-05-01'

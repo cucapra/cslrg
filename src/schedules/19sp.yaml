@@ -1,8 +1,8 @@
 name: Spring 2019
 location: Rhodes 471E
 day: Wednesday
-time: 3.00pm
-endtime: 4.00pm
+time: 2.30pm
+endtime: 3.30pm
 
 meetings:
     -
@@ -142,9 +142,11 @@ meetings:
     -
         day: '2018-05-01'
         who: Helena
-        title: 'ISCA Preview'
+        title: 'DRISA V2'
         details: |
-            TBD
+            [*SCOPE: A Stochastic Computing Engine for DRAM-Based In-Situ Accelerator*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8574579&tag=1)
+            Shuangchen Li, Alvin Oliver Glova, Xing Hu, Peng Gu, Dimin Niu, Krishna T. Malladi, Hongzhong Zheng, Bob Brennan, Yuan Xie.
+            2018 MICRO.
              
 
     -

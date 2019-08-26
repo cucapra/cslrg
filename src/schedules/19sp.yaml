@@ -6,14 +6,14 @@ endtime: 3.30pm
 
 meetings:
     -
-        day: '2018-01-30'
+        day: '2019-01-30'
         title: "Organization"
         who: Sachille
         details: |
             Selecting papers for the semester.
 
     -
-        day: '2018-02-06'
+        day: '2019-02-06'
         who: Nitish
         title: 'Microarchitecture'
         details: |
@@ -26,7 +26,7 @@ meetings:
             2013 ISCA.
 
     -
-        day: '2018-02-13'
+        day: '2019-02-13'
         who: Sachille & Nitish
         title: Languages & Compiler
         details: |
@@ -41,7 +41,7 @@ meetings:
             2018 MICRO.
 
     -
-        day: '2018-02-20'
+        day: '2019-02-20'
         who: Kailin
         title: Processing-in-memory
         details: |
@@ -50,7 +50,7 @@ meetings:
             2017 MICRO.
 
     -
-        day: '2018-02-27'
+        day: '2019-02-27'
 #        who: Tuan
 #        title: Specialized architectures
 #        details: |
@@ -59,7 +59,7 @@ meetings:
 #            2018 MICRO.
 #
 #    -
-#        day: '2018-03-06'
+#        day: '2019-03-06'
         who: Neeraj
         title: Datacenters and Machine Learning
         details: |
@@ -70,14 +70,14 @@ meetings:
 #
 
     -
-        day: '2018-03-06'
+        day: '2019-03-06'
         who: Nitish
         title: Machine Learning Accelerators
         details: |
             [*DNN Dataflow Choice is Overrated*](https://arxiv.org/pdf/1809.04070.pdf)
              
     -
-        day: '2018-03-13'
+        day: '2019-03-13'
         who: Yi
         title: Memory
         details: |
@@ -86,7 +86,7 @@ meetings:
             2018 MICRO.
 
     -
-        day: '2018-03-20'
+        day: '2019-03-20'
         who: Khalid
         title: Processing-in-memory
         details: |
@@ -99,7 +99,7 @@ meetings:
             2018 ISCA.
 
     -
-        day: '2018-03-27'
+        day: '2019-03-27'
         who: Sachille
         title: 'ASPLOS Preview'
         details: |
@@ -108,13 +108,13 @@ meetings:
             2019 ASPLOS.
              
     -
-        day: '2018-04-03'
+        day: '2019-04-03'
         title: Spring Break
         details: |
             No meeting
 
     -
-        day: '2018-04-10'
+        day: '2019-04-10'
         who: Cunxi
         title: 'ASPLOS Preview'
         details: |
@@ -124,14 +124,14 @@ meetings:
              
 
     -
-        day: '2018-04-17'
+        day: '2019-04-17'
         title: ASPLOS
         details: |
             No meeting
              
 
     -
-        day: '2018-04-24'
+        day: '2019-04-24'
         who: Ritchie
         title: Machine Learning Systems
         details: |
@@ -140,7 +140,7 @@ meetings:
             2018 NeurIPS.
 
     -
-        day: '2018-05-01'
+        day: '2019-05-01'
         who: Helena
         title: 'DRISA V2'
         details: |
@@ -150,7 +150,7 @@ meetings:
              
 
     -
-        day: '2018-05-08'
+        day: '2019-05-08'
         who: Sungbo
         title: Virtual memory
         details: |

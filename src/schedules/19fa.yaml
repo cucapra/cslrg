@@ -1,8 +1,8 @@
 name: Fall 2019
 location: Rhodes 471E
 day: Monday
-time: 11 am
-endtime: 12 pm
+time: 11am
+endtime: 12pm
 
 meetings:
     -
@@ -12,67 +12,81 @@ meetings:
         details: |
             Selecting papers for the semester.
 
+    -
         day: '2019-09-16'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-09-23'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-09-30'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-10-07'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-10-14'
         title: Fall break
         who: 
         details: |
 
+    -
         day: '2019-10-21'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-10-28'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-11-04'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-11-11'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-11-18'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-11-25'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-12-02'
         title: "TBD"
         who: 
         details: |
 
+    -
         day: '2019-12-09'
         title: "TBD"
         who: 
         details: |
+

@@ -14,21 +14,27 @@ meetings:
 
     -
         day: '2019-09-16'
-        title: "TBD"
-        who: 
+        title: "Architecture performance"
+        who: Sachille
         details: |
+            [Discerning the dominant out-of-order performance advantage: is it speculation or dynamism?](https://dl.acm.org/citation.cfm?id=2451143),
+            Daniel S. McFarlin, Charles Tucker and Craig Zilles, ASPLOS 2013.
 
     -
         day: '2019-09-23'
-        title: "TBD"
-        who: 
+        title: "CGRAs"
+        who: Peitian
         details: |
+            [Plasticine: A reconfigurable architecture for parallel patterns](https://ieeexplore.ieee.org/document/8192487),
+            Raghu Prabhakar, Yaqi Zhang, David Koeplinger, Matt Feldman, Tian Zhao, Stefan Hadjis, Ardavan Pedram, Christos Kozyrakis and Kunle Olukotun, ISCA 2017.
 
     -
         day: '2019-09-30'
-        title: "TBD"
-        who: 
+        title: "GPU"
+        who: Tuan
         details: |
+            [CORF: Coalescing Operand Register File for GPUs](https://dl.acm.org/citation.cfm?id=3297858.3304026),
+            	Hodjat Asghari Esfeden, Farzad Khorasani, Hyeran Jeon, Daniel Wong and Nael Abu-Ghazaleh, ASPLOS 2019.
 
     -
         day: '2019-10-07'
@@ -57,7 +63,7 @@ meetings:
     -
         day: '2019-11-04'
         title: "TBD"
-        who: 
+        who: Steven
         details: |
 
     -

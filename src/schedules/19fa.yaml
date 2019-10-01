@@ -30,17 +30,19 @@ meetings:
 
     -
         day: '2019-09-30'
-        title: "GPU"
+        title: "GPUs"
         who: Tuan
         details: |
             [CORF: Coalescing Operand Register File for GPUs](https://dl.acm.org/citation.cfm?id=3297858.3304026),
-            	Hodjat Asghari Esfeden, Farzad Khorasani, Hyeran Jeon, Daniel Wong and Nael Abu-Ghazaleh, ASPLOS 2019.
+            Hodjat Asghari Esfeden, Farzad Khorasani, Hyeran Jeon, Daniel Wong and Nael Abu-Ghazaleh, ASPLOS 2019.
 
     -
         day: '2019-10-07'
-        title: "TBD"
+        title: "Accelerators"
         who: Helena 
         details: |
+            [Q100: The Architecture and Design of a Database Processing Unit](https://dl.acm.org/citation.cfm?id=2541961),
+            Lisa Wu, Andrea Lottarini, Timothy K. Paine, Martha A. Kim and Kenneth A. Ross, ASPLOS 2014.
 
     -
         day: '2019-10-14'

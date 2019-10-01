@@ -52,9 +52,11 @@ meetings:
 
     -
         day: '2019-10-21'
-        title: "TBD"
+        title: "Cloud"
         who: Yi 
         details: |
+            [TPShare: A Time-Space Sharing Scheduling Abstraction for Shared Cloud via Vertical Labels](https://dl.acm.org/citation.cfm?id=3326634),
+            Yuzhao Wang, Lele Li, You Wu, Junqing Yu, Zhibin Yu and Xuehai Qian, ISCA 2019.
 
     -
         day: '2019-10-28'

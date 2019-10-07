@@ -60,9 +60,12 @@ meetings:
 
     -
         day: '2019-10-28'
-        title: "TBD"
-        who: 
+        title: "Verification"
+        who: Debjit
         details: |
+            [Automated, compositional and iterative deadlock detection](https://dl.acm.org/citation.cfm?id=3041586),
+            Sagar Chaki, Edmund Clarke, Joe ̈l Ouaknine and Natasha Sharygina, MEMOCODE 2004.
+            [Alternative link](https://www.cs.cmu.edu/~chaki/publications/MEMOCODE-2004.pdf)
 
     -
         day: '2019-11-04'

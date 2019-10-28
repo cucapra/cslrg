@@ -69,9 +69,11 @@ meetings:
 
     -
         day: '2019-11-04'
-        title: "TBD"
+        title: "Soft control and power"
         who: Steven
         details: |
+            [An integrated design and fabrication strategy for entirely soft, autonomous robots](https://www.nature.com/articles/nature19100),
+            Michael Wehner, Ryan L. Truby, Daniel J. Fitzgerald, Bobak Mosadegh, George M. Whitesides, Jennifer A. Lewis & Robert J. Wood, Nature 2016.
 
     -
         day: '2019-11-11'
@@ -81,8 +83,8 @@ meetings:
 
     -
         day: '2019-11-18'
-        title: "TBD"
-        who: 
+        title: "DSLs"
+        who: Nitish & Sachille
         details: |
 
     -

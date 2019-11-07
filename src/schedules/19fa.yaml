@@ -77,15 +77,19 @@ meetings:
 
     -
         day: '2019-11-11'
-        title: "TBD"
+        title: "Machine learning"
         who: Neil
         details: |
+            [Eager Pruning: Algorithm and Architecture Support for Fast Training of Deep Neural Networks](https://dl.acm.org/citation.cfm?id=3322263),
+            Jiaqi Zhang, Xiangru Chen, Mingcong Song and Tao Li, ISCA 2019.
 
     -
         day: '2019-11-18'
         title: "DSLs"
         who: Nitish & Sachille
         details: |
+            [Domain-specific Languages and Code Synthesis Using Haskell](https://dl.acm.org/citation.cfm?id=2617811),
+            Andy Gill, ACM-Queue 2014.
 
     -
         day: '2019-11-25'

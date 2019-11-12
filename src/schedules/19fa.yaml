@@ -85,23 +85,23 @@ meetings:
 
     -
         day: '2019-11-18'
-        title: "DSLs"
-        who: Nitish & Sachille
+        title: "No Meeting"
+        who: 
         details: |
-            [Domain-specific Languages and Code Synthesis Using Haskell](https://dl.acm.org/citation.cfm?id=2617811),
-            Andy Gill, ACM-Queue 2014.
 
     -
         day: '2019-11-25'
-        title: "TBD"
+        title: "No Meeting"
         who: 
         details: |
 
     -
         day: '2019-12-02'
-        title: "TBD"
-        who: 
+        title: "DSLs"
+        who: Nitish & Sachille
         details: |
+            [Domain-specific Languages and Code Synthesis Using Haskell](https://dl.acm.org/citation.cfm?id=2617811),
+            Andy Gill, ACM-Queue 2014.
 
     -
         day: '2019-12-09'
